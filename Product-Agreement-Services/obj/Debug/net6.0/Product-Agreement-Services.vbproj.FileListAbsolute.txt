@@ -1,0 +1,12 @@
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product-Agreement-Services\bin\Debug\net6.0\Product-Agreement-Services.deps.json
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product-Agreement-Services\bin\Debug\net6.0\Product-Agreement-Services.dll
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product-Agreement-Services\bin\Debug\net6.0\Product-Agreement-Services.pdb
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product-Agreement-Services\obj\Debug\net6.0\Product-Agreement-Services.vbproj.AssemblyReference.cache
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product-Agreement-Services\obj\Debug\net6.0\Product-Agreement-Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product-Agreement-Services\obj\Debug\net6.0\Product-Agreement-Services.AssemblyInfoInputs.cache
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product-Agreement-Services\obj\Debug\net6.0\Product-Agreement-Services.AssemblyInfo.vb
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product-Agreement-Services\obj\Debug\net6.0\Product-Agreement-Services.vbproj.CoreCompileInputs.cache
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product-Agreement-Services\obj\Debug\net6.0\Product-Agreement-Services.dll
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product-Agreement-Services\obj\Debug\net6.0\refint\Product-Agreement-Services.dll
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product-Agreement-Services\obj\Debug\net6.0\Product-Agreement-Services.pdb
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product-Agreement-Services\obj\Debug\net6.0\ref\Product-Agreement-Services.dll

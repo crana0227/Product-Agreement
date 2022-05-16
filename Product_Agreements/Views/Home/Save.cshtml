@@ -1,0 +1,56 @@
+﻿@model Product_Agreements.Models.ProductAgreementModel;
+<h2>Save</h2>
+@section Scripts {
+  <script src="~/js/ProductAgreements/AddSaveAgreement.js"></script>
+}
+@*<script>
+    $('.datepicker').datepicker({
+        format: 'MM/dd/yyyy'
+    });
+</script>*@
+@using (Html.BeginForm("save", "home", FormMethod.Post, new { id = "popupForm" }))
+{
+    if (Model != null && Model.Id > 0)
+    {
+        @Html.HiddenFor(a=>a.Id)
+    }
+    if (Model != null && !string.IsNullOrEmpty(Model.UserId))
+    {
+        @Html.HiddenFor(a=>a.UserId)
+    }
+    <div class="form-group">
+        <label>Product Group Code</label>
+        @Html.DropDownListFor(a=>a.ProductGroupId,(IEnumerable<SelectListItem>)this.ViewBag.ProductGroupList, new {@class = "form-control",id = "productGroupList"})
+        @Html.ValidationMessageFor(a => a.ProductGroupId)
+    </div>
+    <div class="form-group">
+        <label>Product Number</label>
+        @Html.DropDownListFor(a=>a.ProductId,(IEnumerable<SelectListItem>)this.ViewBag.ProductList, new {@class = "form-control", id = "productList"})
+        @Html.ValidationMessageFor(a=>a.ProductId)
+    </div>
+    <div class="form-group">
+        <label>Effective Date</label>
+        @Html.EditorFor(a=>a.EffectiveDate,"{0:MM/dd/yyyy}",new { htmlattributes = new { @class = "form-control datepicker"}})
+        @Html.ValidationMessageFor(a => a.EffectiveDate)
+    </div>
+    <div class="form-group">
+        <label>Expiration Date</label>
+        @Html.EditorFor(a=>a.ExpirationDate,"{0:MM/dd/yyyy}",new { htmlattributes = new { @class = "form-control datepicker"}})
+        @Html.ValidationMessageFor(a => a.ExpirationDate)
+    </div>
+    <div class="form-group">
+        <label>Product Price</label>
+        @Html.TextBoxFor(a => a.ProductPrice, new { @class = "form-control" ,id="txtProductPrice",@readonly = "readonly"})
+        @Html.ValidationMessageFor(a => a.ProductPrice)
+    </div>
+    <div class="form-group">
+        <label>New Price</label>
+        @Html.TextBoxFor(a => a.NewPrice, new { @class = "form-control" })
+        @Html.ValidationMessageFor(a => a.NewPrice)
+    </div>
+
+
+    <div>
+        <input type="submit" value="Save" />
+    </div>
+}

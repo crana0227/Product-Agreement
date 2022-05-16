@@ -1,0 +1,12 @@
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Repository\bin\Debug\net6.0\Product_Agreements_Repository.deps.json
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Repository\bin\Debug\net6.0\Product_Agreements_Repository.dll
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Repository\bin\Debug\net6.0\Product_Agreements_Repository.pdb
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Repository\obj\Debug\net6.0\Product_Agreements_Repository.csproj.AssemblyReference.cache
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Repository\obj\Debug\net6.0\Product_Agreements_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Repository\obj\Debug\net6.0\Product_Agreements_Repository.AssemblyInfoInputs.cache
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Repository\obj\Debug\net6.0\Product_Agreements_Repository.AssemblyInfo.cs
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Repository\obj\Debug\net6.0\Product_Agreements_Repository.csproj.CoreCompileInputs.cache
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Repository\obj\Debug\net6.0\Product_Agreements_Repository.dll
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Repository\obj\Debug\net6.0\refint\Product_Agreements_Repository.dll
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Repository\obj\Debug\net6.0\Product_Agreements_Repository.pdb
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Repository\obj\Debug\net6.0\ref\Product_Agreements_Repository.dll

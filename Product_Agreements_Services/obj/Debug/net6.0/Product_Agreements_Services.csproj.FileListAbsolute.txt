@@ -1,0 +1,15 @@
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Services\bin\Debug\net6.0\Product_Agreements_Services.deps.json
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Services\bin\Debug\net6.0\Product_Agreements_Services.dll
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Services\bin\Debug\net6.0\Product_Agreements_Services.pdb
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Services\obj\Debug\net6.0\Product_Agreements_Services.csproj.AssemblyReference.cache
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Services\obj\Debug\net6.0\Product_Agreements_Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Services\obj\Debug\net6.0\Product_Agreements_Services.AssemblyInfoInputs.cache
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Services\obj\Debug\net6.0\Product_Agreements_Services.AssemblyInfo.cs
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Services\obj\Debug\net6.0\Product_Agreements_Services.csproj.CoreCompileInputs.cache
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Services\obj\Debug\net6.0\Product_Agreements_Services.dll
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Services\obj\Debug\net6.0\refint\Product_Agreements_Services.dll
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Services\obj\Debug\net6.0\Product_Agreements_Services.pdb
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Services\obj\Debug\net6.0\ref\Product_Agreements_Services.dll
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Services\bin\Debug\net6.0\Product_Agreements_Objects.dll
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Services\bin\Debug\net6.0\Product_Agreements_Objects.pdb
+C:\Chetan Rana\Shivaay Software - Assignment\Product Agreement\Product_Agreements_Services\obj\Debug\net6.0\Product_Agreements_Services.csproj.CopyComplete

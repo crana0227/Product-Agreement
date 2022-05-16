@@ -1,0 +1,52 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "Home Page";
+}
+@section Scripts {
+  <script src="~/js/ProductAgreements/ProductAgreement.js"></script>
+}
+@if (SignInManager.IsSignedIn(User))
+{
+    <div style="width:90%; margin:0 auto" class="tablecontainer">
+        <a class="popup btn btn-primary" href="/home/save/0" style="margin-bottom:20px; margin-top:20px;">Add New Agreement</a>
+        <table id="example" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>User Name</th>
+                    <th>Product Group Code</th>
+                    <th>Product Number</th>
+                    <th>Effective Date</th>
+                    <th>Expiration Date</th>
+                    <th>Product Price</th>
+                    <th>New Price</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>Id</th>
+                    <th>User Name</th>
+                    <th>Product Group Code</th>
+                    <th>Product Number</th>
+                    <th>Effective Date</th>
+                    <th>Expiration Date</th>
+                    <th>Product Price</th>
+                    <th>New Price</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+}
+else
+{
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </div>
+}
